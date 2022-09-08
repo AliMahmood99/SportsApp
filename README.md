@@ -2,6 +2,17 @@
 
 # Video
 
+# Sports iOS App using Swift with:
+- Restful API
+- Alamofire
+- CoreData
+- CocoaPods
+- Kingfisher
+- Reachability
+- Constraints
+- Animation
+- MVC
+
 
 
 
